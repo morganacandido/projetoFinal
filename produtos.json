@@ -1,0 +1,46 @@
+[{
+  "_id": {
+    "$oid": "672e79ff8405463cf8459001"
+  },
+  "nomeProduto": "Caneta",
+  "marca": "Bic",
+  "preco": 1.99,
+  "estoque": 50
+},
+{
+  "_id": {
+    "$oid": "672e79ff8405463cf8459002"
+  },
+  "nomeProduto": "Caderno",
+  "marca": "Tilibra",
+  "preco": 20.00,
+  "estoque": 20
+},
+{
+  "_id": {
+    "$oid": "672e79ff8405463cf8459003"
+  },
+  "nomeProduto": "Lápis",
+  "marca": "Faber-Castell",
+  "preco": 0.99,
+  "estoque": 50
+},
+{
+  "_id": {
+    "$oid": "672e79ff8405463cf8459004"
+  },
+  "nomeProduto": "Mochila",
+  "marca": "Puket",
+  "preco": 300.00,
+  "estoque": 10
+},
+{
+  "_id": {
+    "$oid": "672e79ff8405463cf8459005"
+  },
+  "nomeProduto": "Borracha",
+  "marca": "Mercur",
+  "preco": 0.90,
+  "estoque": 50
+}
+]

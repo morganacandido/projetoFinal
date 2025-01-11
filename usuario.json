@@ -1,0 +1,16 @@
+[{
+    "_id": {
+      "$oid": "672e7ba05ae765ea29438fd1"
+    },
+    "nome": "João",
+    "cargo": "atendente",
+    "nivel_usuario": "operador"
+  },
+  {
+    "_id": {
+      "$oid": "672e7ba05ae765ea29438fd2"
+    },
+    "nome": "Morgana",
+    "cargo": "atendente",
+    "nivel_usuario": "supervisor"
+  }]
