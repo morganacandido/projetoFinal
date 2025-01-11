@@ -7,6 +7,6 @@ Projeto final da disciplina de Tópicos Especiais em Backend II
  - IDE usada na prática foi Visual Studio Code.
 
    Neste trabalho contém:
-   - Operações CRUD para database sql de usuário e produto
+   - Operações CRUD para database nosql de usuário e produto
 
 
